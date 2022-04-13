@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Menu from './Menu';
 import Categories from './Categories';
-//import items from '../mocks/data';
+//import items from '../mocks/menudata';
 import '../App.css';
 import { getAllMenus } from '../api/authProvider';
 import NoDataFound from './NoDataFound';
